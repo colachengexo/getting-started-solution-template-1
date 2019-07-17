@@ -1,5 +1,5 @@
 
-# Sigfox Murano Product1
+# Sigfox Murano Product2
 
 This project is a [Sigfox](https://www.sigfox.com) integration for Murano Products. It is compatible with any Murano applications including ExoSense.
 
